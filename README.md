@@ -6,7 +6,7 @@ I build AI systems around LLM agents, RAG, automation, local inference, tool use
 
 I like working close to how AI agents behave: how they understand tasks, use context, choose tools, fail, recover, and improve through feedback.
 
-[Portfolio](https://sayedev.framer.ai) · [GitHub](https://github.com/oxbshw) · [X](https://x.com/Sayedevv) · [Bluesky](https://bsky.app/profile/sayedev.bsky.social)
+· [GitHub](https://github.com/oxbshw) · [X](https://x.com/Sayedevv) · [Bluesky](https://bsky.app/profile/sayedev.bsky.social)
 
 ---
 
