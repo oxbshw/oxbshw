@@ -311,7 +311,6 @@ I'm open to collaborating on:
 
 ## Connect With Me
 
-- Portfolio: [sayedev.framer.ai](https://sayedev.framer.ai)
 - GitHub: [github.com/oxbshw](https://github.com/oxbshw)
 - X: [@Sayedevv](https://x.com/Sayedevv)
 - Bluesky: [sayedev.bsky.social](https://bsky.app/profile/sayedev.bsky.social)
